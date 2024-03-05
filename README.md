@@ -5,6 +5,16 @@ Mi curso consiste en realizar exámenes, simulacros de exámenes y también cont
 Su nombre es MotoTheory
 Si tieness pensado sacarte el carnet,  no te lo pienses dos veces y únete!!
 
+Usuarios para poder unirte:
+Usuario:
+bryaantavioo
+Contraseña:
+Cordonverde12-
+Usuario
+lionetavio
+Contraseña:
+Cordonverde11-
+
 # INSTALACIÓN
 ...
     git clone 
